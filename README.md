@@ -1,3 +1,13 @@
+# Description
+
+## Website: 
+
+This is a REACT dictionary website, built using the (unofficial) Google Dictionary API and Material UI.
+It provides support for 12 languages and incorporates some of the basic functionality of the Material UI framework.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
